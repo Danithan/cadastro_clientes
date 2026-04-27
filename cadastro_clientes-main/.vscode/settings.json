@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "cadastro_clientes-main\\cadastro_clientes\\src"
+        "cadastro_clientes\\src"
     ],
     "java.project.referencedLibraries": [
         "c:\\Users\\Danie\\OneDrive\\Área de Trabalho\\mysql-connector-j-9.6.0\\mysql-connector-j-9.6.0\\mysql-connector-j-9.6.0.jar"
